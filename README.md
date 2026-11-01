@@ -20,7 +20,7 @@ The launcher builds the updated app at `target-tauri\release\frame-studio-dock.e
 
 ## Releases
 
-Download the latest installer from the [Releases page](https://github.com/omaiow/Frame-adder/releases).
+Download the latest installer from the [Releases page](https://github.com/omaiow/Frame-Studio/releases).
 
 To publish a new release, bump `version` in `Cargo.toml` and `tauri.conf.json`, commit, then push a matching tag:
 
